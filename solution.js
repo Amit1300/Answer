@@ -3,12 +3,9 @@
 
 var arr=[1,2,3,4,5,6,7,85,6,4,90,23,12,34,45]
 for(var i in  arr){
-    if(i==11){
-        break
+    if(arr[i]%2==0){
+        cosnole.log(arr[i])
 
-    }else{
-        
-        console.log(arr[i])
     }
     
 }
