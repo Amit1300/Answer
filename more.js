@@ -1,5 +1,5 @@
 var arr=[1,2,3,4,5,6,7,8,8,9,10]
-for (var i of arr){
+for (var i in arr){
     if(arr[i]==arr[i+1]){
         console.log(arr[i])
     }
