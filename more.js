@@ -10,6 +10,29 @@ fetch('https://jsonplaceholder.typicode.com/photos/1 ').then(response=>response.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //solution 5
 
 var obj =[
